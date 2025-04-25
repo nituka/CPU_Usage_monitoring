@@ -3,6 +3,8 @@ Prerequisites
 --
 Install helm ,kubectl and kind(kubernetes package manager)
 
+Note: yml files in repo are not for this setup. 
+-
 Step1: Create a Kind Cluster
 --------------------------------
 Use the provided kind-config.yml to create a cluster with one control-plane and two worker nodes.
